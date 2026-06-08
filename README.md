@@ -85,3 +85,4 @@ Add move validation
 Create win detection algorithm
 Add deployment shell script
 Fix player turn switching bug
+Add game reset functionality

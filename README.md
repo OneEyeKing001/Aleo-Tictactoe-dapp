@@ -87,3 +87,4 @@ Add deployment shell script
 Fix player turn switching bug
 Add game reset functionality
 Improve bash script error handling
+Update README with instructions
